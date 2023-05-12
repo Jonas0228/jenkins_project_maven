@@ -19,6 +19,7 @@
 </style>
 </head>
 <body>
-<h2><b>Jenkins에 Maven Project 배포 연습</b></h2>
+<h2><b>현오 하이</b></h2>
+<h5>젠킨스에 배포 성공했냐</h5>
 </body>
 </html>
